@@ -1,0 +1,32 @@
+{
+  "name": "python-boilerplate",
+  "version": "0.0.1",
+  "description": "boilerplate for prototyping",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "python setup.py test",
+    "serve": "node server.js | node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanbarton/python-boilerplate.git"
+  },
+  "keywords": [
+    "python",
+    "javascript",
+    "fun"
+  ],
+  "author": "Jonathan Barton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanbarton/python-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jonathanbarton/python-boilerplate#readme",
+  "devDependencies": {
+    "json-server": "^0.12.1"
+  }
+}

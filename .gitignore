@@ -4,3 +4,5 @@
 *.egg-info/
 docs/_build
 .virtualenv
+.pytest_cache/
+node_modules/

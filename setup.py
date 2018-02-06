@@ -13,7 +13,7 @@ NAME = 'python-boilerplate'
 VERSION = '0.1'
 AUTHOR = 'Keath Milligan'
 REQUIRED_PYTHON_VERSION = (2, 7)
-PACKAGES = ['sample']
+PACKAGES = ['src']
 INSTALL_DEPENDENCIES = []
 SETUP_DEPENDENCIES = [
 ]
